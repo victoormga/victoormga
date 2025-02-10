@@ -15,8 +15,23 @@ I keep a mix of projects, including:
 
 ### 🌍 Let’s Connect!
 If you want to chat, collaborate, or just say hi, you can find me here:
-- **LinkedIn:** [www.linkedin.com/in/víctor-manuel-garcía-alonso]
-- **Gmail:** [vvvvvggggaaaa11@gmail.com]
- 
+- **Gmail:** vvvvvggggaaaa11@gmail.com
+
+ <p align="left">
+                      <a href="https://www.github.com/victoormga" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="www.linkedin.com/in/víctor-manuel-garcía-alonso" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+</p>
 Thanks for stopping by! 😊
 
