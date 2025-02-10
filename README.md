@@ -23,8 +23,8 @@ I'm always eager to expand my knowledge. Currently, I'm working on:
 
 ## 📫 Get in Touch
 Feel free to connect with me on:
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+- **LinkedIn:** [www.linkedin.com/in/víctor-manuel-garcía-alonso]
+- **Gmail:** [vvvvvggggaaaa11@gmail.com]
 - **Portfolio:** [Your Portfolio Link]
 
 I'm open to collaboration, learning, and contributing to exciting projects!
