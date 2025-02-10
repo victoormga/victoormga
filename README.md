@@ -1,34 +1,31 @@
-## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Víctor García
+# Hi there 👋
 
-Welcome to my GitHub profile! I'm a software developer with experience in C# and Java, currently focusing on web application deployment and backend development. I'm passionate about building efficient, scalable, and well-structured applications.
+Hey! Welcome to my GitHub. I'm a software developer who enjoys working with C# and Java, currently diving into web application deployment and backend development. I like building things that are efficient, scalable, and make sense.
 
-## 🔧 Technologies & Skills
-- **Languages:** C#, Java, JavaScript
-- **Frameworks & Tools:** ASP.NET Core, SQLite, WSL, Ubuntu Terminal
-- **Databases:** PostgreSQL (learning), SQLite
-- **Version Control:** Git, GitHub
-- **Deployment:** Vercel (learning)
+### 🔧 What I Work With
+I mess around with **C#, Java, and JavaScript**, and I’ve been exploring **ASP.NET Core** and **SQLite** quite a bit. Learning my way through **PostgreSQL** and **Docker**, because why not? Also, getting the hang of **WSL and Ubuntu Terminal** while trying to deploy projects with **Vercel**.
 
-## 📌 Projects
-Here you’ll find a variety of projects, including:
-- **Portfolio Website:** A clean and minimalistic personal website.
-- **Art-related Web Projects:** Showcasing artistic work and digital experiences.
-- **API Development:** Minimal APIs with SQLite using ASP.NET Core.
+### 📌 What You’ll Find Here
+I keep a mix of projects, including:
+- My **portfolio website**, which is clean and minimalistic.
+- Some **art-related web projects** (because tech + creativity = fun).
+- API experiments, mostly using **ASP.NET Core with SQLite**.
 
-## 🚀 Learning Journey
-I'm always eager to expand my knowledge. Currently, I'm working on:
-- **Mastering PostgreSQL** for backend applications.
-- **Improving my skills in ASP.NET Core** to develop efficient web services.
-- **Exploring Docker and containerization** to streamline deployment processes.
+### 🚀 What I’m Learning
+Always looking to improve! Right now, I’m:
+- Getting better at **PostgreSQL** for backend work.
+- Leveling up my **ASP.NET Core** skills.
+- Exploring **Docker** and containerization (still new to it, but making progress!).
 
-## 📫 Get in Touch
-Feel free to connect with me on:
+### 📫 Let’s Connect!
+If you want to chat, collaborate, or just say hi, you can find me here:
 - **LinkedIn:** [www.linkedin.com/in/víctor-manuel-garcía-alonso]
 - **Gmail:** [vvvvvggggaaaa11@gmail.com]
 - **Portfolio:** [Your Portfolio Link]
 
-I'm open to collaboration, learning, and contributing to exciting projects!
+### 🌍 Socials
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/víctor-manuel-garcía-alonso)
 
 Thanks for stopping by! 😊
-
 
