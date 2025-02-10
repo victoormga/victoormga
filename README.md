@@ -1,8 +1,8 @@
-# Hey there 👋 It's Víctor
+# Hi there 👋 
 
 ## Software Developer
 
-Hey! Welcome to my GitHub. I'm a software developer from Spain who's currently learning and working on web application deployment and backend development. I try to keep my projects aesthetically impressive, so I'd say that frontend development is where I can best express my creativity. My objective is to reflect the future through apps and websites, making the web an awesome place where you can explore new ideas. So let's get in touch—I'm open to working on all kinds of projects! 
+Hi, I'm Víctor! Welcome to my GitHub. I'm a software developer from Spain who's currently learning and working on web application deployment and backend development. I try to keep my projects aesthetically impressive, so I'd say that frontend development is where I can best express my creativity. My objective is to reflect the future through apps and websites, making the web an awesome place where you can explore new ideas. So let's get in touch—I'm open to working on all kinds of projects! 
 
 ### 🔧 What I Work With
 I mess around with **CSS, React, and JavaScript**, and I’ve been exploring **Django**, **ASP.NET Core** and **SQLite** quite a bit. Learning my way through **PostgreSQL** and **Docker**.
