@@ -9,7 +9,7 @@ I mess around with **CSS, React, and JavaScript**, and I’ve been exploring **D
 
 ### 📌 What You’ll Find Here
 I keep a mix of projects, including:
-- Some **art-related web projects**(because tech + art = fun) that will be open soon.
+- Some **art-related web projects** (because tech + art = fun) that, hopefully, will be open soon.
 - API experiments, mostly using **Django**, **React** and **Docker**.
 
 
