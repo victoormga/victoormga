@@ -18,7 +18,10 @@ I keep a mix of projects, including:
 
 ### 🌍 Let’s Connect!
 If you want to chat, collaborate, or just say hi, you can find me here:
+
 **Gmail:** vvvvvggggaaaa11@gmail.com
+
+or here:
 
  <p align="left">
                       <a href="https://www.github.com/victoormga" target="_blank" rel="noreferrer">
