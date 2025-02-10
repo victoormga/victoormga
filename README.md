@@ -17,7 +17,6 @@ I keep a mix of projects, including:
 If you want to chat, collaborate, or just say hi, you can find me here:
 - **LinkedIn:** [www.linkedin.com/in/víctor-manuel-garcía-alonso]
 - **Gmail:** [vvvvvggggaaaa11@gmail.com]
-- **Portfolio:** [Your Portfolio Link]
  
 Thanks for stopping by! 😊
 
