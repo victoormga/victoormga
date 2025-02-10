@@ -1,31 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-Hey! Welcome to my GitHub. I'm a software developer who enjoys working with C# and Java, currently diving into web application deployment and backend development. I like building things that are efficient, scalable, and make sense.
+## Software Developer
+
+Hey! Welcome to my GitHub. I'm a software developer from Spain who's currently learning and working on web application deployment and backend development. I try to keep my projects aesthetically impressive, so I'd say that frontend development is where I can best express my creativity. My objective is to reflect the future through apps and websites, making the web an awesome place where you can explore new ideas. So let's get in touch—I'm open to working on all kinds of projects! 
 
 ### 🔧 What I Work With
-I mess around with **C#, Java, and JavaScript**, and I’ve been exploring **ASP.NET Core** and **SQLite** quite a bit. Learning my way through **PostgreSQL** and **Docker**, because why not? Also, getting the hang of **WSL and Ubuntu Terminal** while trying to deploy projects with **Vercel**.
+I mess around with **CSS, React, and JavaScript**, and I’ve been exploring **Django**, **ASP.NET Core** and **SQLite** quite a bit. Learning my way through **PostgreSQL** and **Docker**.
 
 ### 📌 What You’ll Find Here
 I keep a mix of projects, including:
-- My **portfolio website**, which is clean and minimalistic.
-- Some **art-related web projects** (because tech + creativity = fun).
-- API experiments, mostly using **ASP.NET Core with SQLite**.
+- Some **art-related web projects**(because tech + art = fun) that will be open soon.
+- API experiments, mostly using **Django**, **React** and **Docker**.
 
-### 🚀 What I’m Learning
-Always looking to improve! Right now, I’m:
-- Getting better at **PostgreSQL** for backend work.
-- Leveling up my **ASP.NET Core** skills.
-- Exploring **Docker** and containerization (still new to it, but making progress!).
 
-### 📫 Let’s Connect!
+### 🌍 Let’s Connect!
 If you want to chat, collaborate, or just say hi, you can find me here:
 - **LinkedIn:** [www.linkedin.com/in/víctor-manuel-garcía-alonso]
 - **Gmail:** [vvvvvggggaaaa11@gmail.com]
 - **Portfolio:** [Your Portfolio Link]
-
-### 🌍 Socials
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/víctor-manuel-garcía-alonso)
-
+ 
 Thanks for stopping by! 😊
 
