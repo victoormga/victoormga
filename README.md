@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 Hey! Welcome to my GitHub. I'm a software developer who enjoys working with C# and Java, currently diving into web application deployment and backend development. I like building things that are efficient, scalable, and make sense.
 
